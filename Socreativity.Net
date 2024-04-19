@@ -1,3 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graffiti Marquee</title>
+    <style>
+        .graffiti {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 20em;
+            color: rgb(38, 0, 255);
+        }
+    </style>
+</head>
+<body>
+    <marquee behavior="scroll" direction="left">
+        <span class="graffiti">Socreativity</span>
+    </marquee>
+</body>
+</html>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,12 +49,12 @@
 </style>
 </head>
 <body>
-<div class="container">
-    <h1>SOCREATIVITY</h1>
-    <img src="gaming.png" alt= "gaming">
-</div>
-</body>
-</html>
+  
+    <div class="container">
+<img src="gaming.png" alt="gaming"> 
+    </div>
+    
+    
 
 
 
@@ -45,7 +68,7 @@
 
 <html>
   <head>
-    <title>Galaxy</title>
+    <title></title>
   </head>
   <style>
     body {
@@ -53,7 +76,7 @@
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
-      margin: 40px;
+      margin: 200px;
     }
     .text {
       color: white;
@@ -65,4 +88,10 @@
     <h1 class="text"></h1>
     <p class="text"></p>
   </body>
-</html>
+
+
+
+
+
+
+     
